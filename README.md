@@ -1,6 +1,7 @@
 # Trip-and-Travel
 A modern travel agency website showcasing popular destinations in Bangladesh, offering tour packages, booking services, and travel guides to enhance tourism experiences.
 
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
